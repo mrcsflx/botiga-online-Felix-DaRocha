@@ -19,7 +19,7 @@ body {
 
 .cabecera {
     display: flex;
-    background-color: rgba(17, 136, 67, 0.473);
+    background-color: rgba(17, 114, 136, 0.473);
     background-size:cover;
     height:100vh;
     width: 100%; 
@@ -70,12 +70,12 @@ body {
 
 .catalan {
     text-decoration: none;
-    color: crimson;
+    color: rgb(0, 0, 0);
 }
 
 .castellano {
     text-decoration: none;
-    color: crimson;
+    color: rgb(0, 0, 0);
 }
 
 .medio {
@@ -97,7 +97,7 @@ body {
 
 .link {
     text-decoration: none;
-    color: orange;
+    color: rgb(0, 0, 0);
 }
 
 .canales {
